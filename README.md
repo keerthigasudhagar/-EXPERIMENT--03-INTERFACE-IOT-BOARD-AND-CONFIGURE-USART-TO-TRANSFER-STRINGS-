@@ -2,10 +2,10 @@
 ###  DATE: 20.03.24
 
 ###  NAME: Keerthika.S
-###  ROLL NO :23013544
+###  ROLL NO :212223040093
 ###  DEPARTMENT:BE CSE 
 
-# EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
+# EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
 ## Theory 
